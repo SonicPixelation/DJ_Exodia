@@ -53,7 +53,4 @@ $discord->registerCommand('summon', function($message, $discord){
 });
 
 $discord->run();
-
-//use this link to add the bot
-//https://discordapp.com/api/oauth2/authorize?&client_id=265335306293608449&scope=bot&permissions=3279936
 ?>
